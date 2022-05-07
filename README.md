@@ -10,7 +10,7 @@
   <a href="https://github.com/esterferreirac">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=esterferreirac&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esterferreirac&layout=compact&langs_count=7&theme=panda"/>
-  <img align="right" alt="Ester-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/2324db68390db1b9066c54d51e2e3a6b.gif">
+  <img align="right" alt="Ester-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/f170df7d4c231ddb1acab37ac066b42f.gif">
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Linguagens e programas que uso:
