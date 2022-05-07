@@ -1,6 +1,6 @@
 <div align="center"><h1> 👋 Hello world! 👋 </h1></div>
 
-<div align="center"><h2> Sou a Ester Eliege </h2></div>
+<div align="center"><h2> Sou a Ester Ferreira </h2></div>
 
 - 👦 Pronomes: Ela / Dela / She
 - 👨‍💻 Na jornada para me tornar Dev JAVA Web Full Stack Jr.
