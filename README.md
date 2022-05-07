@@ -3,7 +3,7 @@
 <div align="center"><h2> Sou a Ester Eliege </h2></div>
 
 - 👦 Pronomes: Ela / Dela / She
-- 👨‍💻 Na jornada para me tornar um Desenvolvedora JAVA Web Full Stack Jr.
+- 👨‍💻 Na jornada para me tornar Dev JAVA Web Full Stack Jr.
 - 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
