@@ -3,7 +3,7 @@
 <div align="center"><h2> Sou a Ester Ferreira </h2></div>
 
 - 👦 Pronomes: Ela / Dela / She
-- 👨‍💻 Na jornada para me tornar Dev JAVA Web Full Stack Jr.
+- 👨‍💻 Na jornada para me tornar Dev Java Web Full Stack
 - 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
