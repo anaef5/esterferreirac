@@ -21,7 +21,6 @@ align="center" alt="Ester-HTML5" height="30" width="80" src="https://img.shields
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Contato:
-<a href = "mailto:estereliege_ferr@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ester-eliege-a0556a157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   
