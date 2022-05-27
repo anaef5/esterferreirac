@@ -7,9 +7,11 @@
 - 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img align="right" alt="Ester-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/f170df7d4c231ddb1acab37ac066b42f.gif"/>
 <a href="https://github.com/esterferreirac">
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=esterferreirac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=esterferreirac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esterferreirac&layout=compact&langs_count=7&theme=dracula"/>
+
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Linguagens e programas que uso:
@@ -26,6 +28,6 @@ align="center" alt="Ester-HTML5" height="30" width="80" src="https://img.shields
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<img align="right" alt="Ester-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/f170df7d4c231ddb1acab37ac066b42f.gif">
+
 
   
